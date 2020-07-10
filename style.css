@@ -277,7 +277,7 @@ background: none;
 }
 .section--map {
   padding: 40px 0;
-  background: #e6e6e6 url("../images/map-bg.jpg");
+  background:  url("../images/map-bg.jpg");
 }
 .section--clients {
   background: url("../images/clients-bg.jpg") center no-repeat;
