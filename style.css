@@ -243,6 +243,7 @@ background: none;
 }
 .slide__item.active {
   opacity: 1;
+  position: relative;
 }
 .slide__item.active:before {
   content: "";
